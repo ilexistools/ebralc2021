@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+       <titleStmt>
+           <title>LIVROS E FLORES</title>
+           <author>
+               <name>Machado de Assis</name>
+               <date>1870</date>
+           </author>
+           <respStmt>
+               <resp>Arquivo gerado por</resp>
+               <name>Pesquisador</name>
+           </respStmt>
+       </titleStmt>
+       <publicationStmt>
+           <publisher>B.-L. Garnier</publisher>
+		   <pubPlace>Rio de Janeiro, RJ</pubPlace>
+       </publicationStmt>
+       <sourceDesc>
+           <biblStruct>
+               <monogr>
+					<title>LIVROS E FLORES</title>
+                   <author>Machado de Assis</author>
+                   <imprint>
+                       <pubDate>1870</pubDate>
+                   </imprint>
+               </monogr>
+           </biblStruct>
+       </sourceDesc>
+   </fileDesc>
+</teiHeader>
+<text>
+   <body>
+<p>LIVROS E FLORES</p>
+<p>
+Teus olhos são meus livros.
+Que livro há aí melhor,
+Em que melhor se leia
+A página do amor?
+</p>
+<p>
+Flores me são teus lábios.
+Onde há mais bela flor,
+Em que melhor se beba
+O bálsamo do amor?
+</p>
+	</body>
+</text>
+</TEI.2>

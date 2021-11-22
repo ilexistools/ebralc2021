@@ -1,0 +1,23 @@
+A ART O
+eleição N O
+ocorreu N O
+sem PREP O
+problemas N O
+. N O
+
+A ART O
+apuração N O
+dos PREP+ART O
+votos N O
+foi N O
+rápida N O
+. N O
+
+O ART O
+candidato N O
+venceu N O
+em PREP O
+primeiro N O
+turno N O
+. N O
+
